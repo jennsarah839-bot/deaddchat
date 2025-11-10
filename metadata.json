@@ -1,0 +1,5 @@
+{
+  "name": "deadchat",
+  "description": "An anonymous, real-time chat application with a modern, Gen Z aesthetic. Messages vanish when you leave, ensuring privacy and spontaneity. Share text and files instantly. No history, just vibes.",
+  "requestFramePermissions": []
+}
